@@ -52,6 +52,9 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-
+### Client Side:
+![Alt Text](./images/client.png)
+### Server Side:
+![Alt Text](./images/server.png)
 
 ## RESULT:
