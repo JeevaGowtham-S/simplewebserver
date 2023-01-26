@@ -58,3 +58,4 @@ httpd.serve_forever()
 ![Alt Text](./images/server.png)
 
 ## RESULT:
+thus a simple webserver is created for displaying five web application frameworks.
